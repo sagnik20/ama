@@ -32,7 +32,7 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
 This (small) repository is published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
 
-[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/sagnik20/ama/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://GitHub.com/sagnik20/ama/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sagnik20/ama)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama/README.md?pixel)](https://GitHub.com/sagnik20/ama/)
 
